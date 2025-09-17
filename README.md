@@ -40,13 +40,15 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-```
-Compare the manually calculated value and the observed practical value.
-```
+
+
 # Output
-<img width="552" height="132" alt="image" src="https://github.com/user-attachments/assets/49772e1a-9e53-44c2-a7be-16f790dbd9c1" />
+![WhatsApp Image 2025-09-17 at 13 21 22_5af0484a](https://github.com/user-attachments/assets/12c2aaa7-1f37-41e7-9a8b-efbc22b2caff)
+![WhatsApp Image 2025-09-17 at 13 21 23_efaf0ea0](https://github.com/user-attachments/assets/0961be26-3cd2-4ef0-8aa1-819236598886)
+![WhatsApp Image 2025-09-17 at 13 21 23_1d9d4c36](https://github.com/user-attachments/assets/e655d112-fc64-4923-bfa5-49827f099f24)
 
 # Results:
-```
-Write the conclusion
-```
+The Huffman and Shannon-Fano coding techniques have been successfully applied to the given source. The average codeword length, entropy, variance, redundancy, and efficiency have been computed.
+
+
+
